@@ -60,7 +60,11 @@ For this screenshot, after the main method is called, the handleRequest(URI url)
 
 
 # Part2
-<img width="458" alt="image" src="https://github.com/cgxxcg/cse15l-lab-report3/assets/146875584/bb52828f-d829-4693-b969-84d68ac62e3a">
+<img width="437" alt="image" src="https://github.com/cgxxcg/cse15l-lab-report3/assets/146875584/0e75a93a-0ce0-458f-abce-727a9e14451a">
+<br>
+<img width="601" alt="image" src="https://github.com/cgxxcg/cse15l-lab-report3/assets/146875584/fdd9511d-3608-41cf-9909-59c4cfc2a011">
+<br>
+<br>
 
 
 
@@ -68,8 +72,7 @@ For this screenshot, after the main method is called, the handleRequest(URI url)
 
 
 
-
-terminal interaction (login to ieng6 without password):
+Terminal interaction (login to ieng6 without password):
 <img width="1027" alt="image" src="https://github.com/cgxxcg/cse15l-lab-report3/assets/146875584/9597743e-d855-4e5c-8a1e-e3f7f7d61ad5">
 
 
